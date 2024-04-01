@@ -415,7 +415,7 @@ new FormRegister().setVisible(true);
     }//GEN-LAST:event_registerActionPerformed
 
     private void logoutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_logoutActionPerformed
-          // TODO add your handling code here:
+new MenuUtama().setVisible(true);          // TODO add your handling code here:
     }//GEN-LAST:event_logoutActionPerformed
 
     private void produkActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_produkActionPerformed

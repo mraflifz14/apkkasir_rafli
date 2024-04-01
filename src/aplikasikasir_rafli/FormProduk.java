@@ -22,6 +22,7 @@ ResultSet rst;
     public FormProduk() {
         initComponents();
         koneksi = Koneksi.koneksiDB();
+        updatetabel();
     }
 
     public void updatetabel(){

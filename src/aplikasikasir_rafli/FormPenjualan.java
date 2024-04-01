@@ -456,7 +456,7 @@ String harga, idproduk, idprodukpenjualan, iddetail, jam, tanggal, sub_total;
         );
 
         jPanel1.add(jPanel2);
-        jPanel2.setBounds(-4, 60, 640, 620);
+        jPanel2.setBounds(10, 60, 640, 620);
 
         getContentPane().add(jPanel1);
         jPanel1.setBounds(0, 0, 640, 730);
